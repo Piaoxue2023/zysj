@@ -285,6 +285,11 @@
     {
       "name": "🤹🏼业余｜少儿益智🤹🏼",
       "url": "http://ftp6587948.host121.sanfengyun.cn/srpd/srpd.json"
+    },
+    //TVBOX
+    {
+      "name": "🤹🏼TVBOX｜TVBOX🤹🏼",
+      "url": "http://cdn.qiaoji8.com/tvbox.json"  
     }
   ]
 }
