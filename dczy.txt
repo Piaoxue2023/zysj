@@ -1,6 +1,6 @@
 { "urls": [
 	
-{ "url": "https://ghproxy.net/https://raw.githubusercontent.com/Piaoxue2023/zysj/main/动漫频道/api.json", "name": "动漫频道" }
+{ "url": "https://ghproxy.net/https://raw.githubusercontent.com/Piaoxue2023/zysj/main/动漫频道/api.json", "name": "动漫频道" },
 
-
+{ "url": "http://yydf.540734621.xyz/yydf/yydf/yydf.json", "name": "业余在线" }
   ]}
